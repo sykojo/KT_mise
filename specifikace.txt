@@ -1,0 +1,20 @@
+Payload: TimePix detector
+The main particles of interest in the near earth orbit are electrons in the range from 100 keV– 7 MeV and protons up to 400 MeV.
+
+matrix of 256 x 256 pixels
+operating temperature limit is about 80 ◦C
+bias voltage: 40V
+
+[Comunication]
+two RS485 for sefety reasons
+The baud rate for communication between the OBC and other payloads is 250 kBd
+
+
+Dimenstions: pico satellite of the 1U category,
+
+3-axis gyroscope
+
+UHF band.
+
+Data rate: 4800 Bd -> 260 kB of data per day
+
