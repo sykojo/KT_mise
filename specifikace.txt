@@ -10,7 +10,7 @@ two RS485 for sefety reasons
 The baud rate for communication between the OBC and other payloads is 250 kBd
 
 
-Dimenstions: pico satellite of the 1U category,
+Dimensions: pico satellite of the 1U category,
 
 3-axis gyroscope
 
@@ -18,3 +18,23 @@ UHF band.
 
 Data rate: 4800 Bd -> 260 kB of data per day
 
+[EPS]
+
+AMUN - Power Supply Unit (https://www.satcatalog.com/component/amun-power-supply-unit/)
+Mass: 0.2 kg
+Battery Capacity: 20 Wh
+Max. Solar Input: 30 W
+
+[Solar Power]
+
+4x CORE01 - 1U Solar Panel (https://www.satcatalog.com/component/core01-1u-solar-panel/)
+Peak Power: 2.45 W
+Mass: 35 g
+OC Voltage: 5.2 V
+
+[ACSD]
+    
+iMTQ (https://www.satcatalog.com/component/imtq/)
+Three axis magnetometer
+Three axis magnetorquer
+Maximum Power: 1.2 W
